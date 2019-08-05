@@ -1,8 +1,8 @@
 {
-    "name": "vendor/pacotes",
+    "name": "dpr001/pacotes",
     "description": "A short description of what your package does",
     "require": {
         "php": "^7.2",
-        "vendor/pacotes": "1.*"
+        "dpr001/pacotes": "1.*"
     }
 }
